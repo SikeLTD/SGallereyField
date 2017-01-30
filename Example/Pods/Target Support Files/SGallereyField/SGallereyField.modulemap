@@ -1,0 +1,6 @@
+framework module SGallereyField {
+  umbrella header "SGallereyField-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SGallereyField",
+  "version": "0.1.0",
+  "summary": "A short description of SGallereyField.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/I.V. Neobutov/SGallereyField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "I.V. Neobutov": "ineobutov@sike.ru"
+  },
+  "source": {
+    "git": "https://github.com/I.V. Neobutov/SGallereyField.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SGallereyField/Classes/**/*"
+}

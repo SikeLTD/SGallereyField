@@ -1,0 +1,16 @@
+PODS:
+  - SGallereyField (0.1.0)
+
+DEPENDENCIES:
+  - SGallereyField (from `../`)
+
+EXTERNAL SOURCES:
+  SGallereyField:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SGallereyField: ae51edd95c72494780f71d3645f6688e376c9710
+
+PODFILE CHECKSUM: 8afd447b7d8cf0c601c9d584b00ef6759e236032
+
+COCOAPODS: 1.2.0
