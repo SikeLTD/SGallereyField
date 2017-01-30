@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SGallereyField_Example' do
+  pod 'SGallereyField', :path => '../'
+
+  target 'SGallereyField_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
